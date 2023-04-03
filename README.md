@@ -3,6 +3,7 @@ Replaces the Antartica flag used in Discord (Twemoji) with the True South flag.
 
 ## Installation
 ### Web client
+#### Via Stylus
 1. Install the Stylus extension/add-on for your browser:
    - [Chrome/Edge](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
    - [Firefox](https://addons.mozilla.org/firefox/addon/styl-us/)
@@ -12,22 +13,7 @@ Replaces the Antartica flag used in Discord (Twemoji) with the True South flag.
 4. Click the "discord.com" part of "discord.com/this URL".
 5. Copy and paste [this CSS](https://raw.githubusercontent.com/ShortTimeNoSee/True-South-Discord-Twemoji/main/flag_aq.css) into the editor.
 6. Click "Save".
-
-### BetterDiscord
-1. Download and install [BetterDiscord](https://betterdiscord.app/). Run Discord.
-2. Click the settings cog "⚙️" beside your username at the bottom left.
-3. Scroll down to "Custom CSS" in the "BETTERDISCORD" section of the settings sidebar.
-4. Copy and paste [this CSS](https://raw.githubusercontent.com/ShortTimeNoSee/True-South-Discord-Twemoji/main/flag_aq.css) into the editor.
-5. Click save "💾".
-
-### Vencord
-1. Download and install [Vencord](https://github.com/Vendicated/Vencord). Run Discord.
-2. Click the settings cog "⚙️" beside your username at the bottom left.
-3. Scroll down to "Themes" in the "VENCORD" section of the settings sidebar.
-4. Copy and paste this link into the textbox below the "THEMES" header: `https://raw.githubusercontent.com/ShortTimeNoSee/True-South-Discord-Twemoji/main/flag_aq.css`.
-5. Do not use the "esc" key to exit settings unless you have clicked outside of the text box first.
-
-### Vencord web client
+#### Via Vencord Web
 1. Install the Vencord extension/add-on for your browser:
    - [Chrome/Edge](https://chrome.google.com/webstore/detail/vencord-web/cbghhgpcnddeihccjmnadmkaejncjndb)
    - [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/vencord-web/)
@@ -45,3 +31,17 @@ Replaces the Antartica flag used in Discord (Twemoji) with the True South flag.
 4. Scroll down to "Themes" in the "VENCORD" section of the settings sidebar.
 5. Copy and paste this link into the textbox below the "THEMES" header: `https://raw.githubusercontent.com/ShortTimeNoSee/True-South-Discord-Twemoji/main/flag_aq.css`.
 6. Do not use the "esc" key to exit settings unless you have clicked outside of the text box first.
+
+### BetterDiscord
+1. Download and install [BetterDiscord](https://betterdiscord.app/). Run Discord.
+2. Click the settings cog "⚙️" beside your username at the bottom left.
+3. Scroll down to "Custom CSS" in the "BETTERDISCORD" section of the settings sidebar.
+4. Copy and paste [this CSS](https://raw.githubusercontent.com/ShortTimeNoSee/True-South-Discord-Twemoji/main/flag_aq.css) into the editor.
+5. Click save "💾".
+
+### Vencord
+1. Download and install [Vencord](https://github.com/Vendicated/Vencord). Run Discord.
+2. Click the settings cog "⚙️" beside your username at the bottom left.
+3. Scroll down to "Themes" in the "VENCORD" section of the settings sidebar.
+4. Copy and paste this link into the textbox below the "THEMES" header: `https://raw.githubusercontent.com/ShortTimeNoSee/True-South-Discord-Twemoji/main/flag_aq.css`.
+5. Do not use the "esc" key to exit settings unless you have clicked outside of the text box first.
