@@ -33,7 +33,7 @@ Replaces the Antartica flag used in Discord (Twemoji) with the True South flag.
    - [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/vencord-web/)
    - [UserScript](https://raw.githubusercontent.com/Vencord/builds/main/Vencord.user.js) (if you know what you are doing)
 2. Make sure the extension has permissions to read and change data on discord.com.
-   1. Google Chrome
+   1. Google Chrome & Microsoft Edge
       - Open [discord.com](https://discord.com).
       - Click the puzzle piece 🧩 at the top right of your screen to view your extensions, then click the three dots next to Vencord Web.
       - Hover over "This can read and change site data", and make sure "On discord.com" is selected
