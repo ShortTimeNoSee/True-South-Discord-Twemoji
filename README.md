@@ -1,7 +1,7 @@
 # True-South-Discord-Twemoji
 Replaces the Antartica flag used in Discord (Twemoji) with the [True South](https://en.wikipedia.org/wiki/Flag_of_Antarctica#True_South_proposal) flag.
 
-The True South flag, designed by Evan Townsend in 2018, symbolizes hope for Antarctica's future and features navy and white horizontal stripes representing long days and nights at the extreme latitude, with a white peak forming a compass arrow pointed south. It has been adopted by National Antarctic Programs, Antarctic nonprofits, and expedition teams, and flown at research stations across Antarctica. In contrast, the current flag used by Twemoji (and thus Discord) — the design by [Graham Bartram](https://en.wikipedia.org/wiki/Flag_of_Antarctica#Graham_Bartram's_proposal) — doesn't represent Antarctica well and is not future-proof, as the continent changes shape due to seasonal and global changes, and is ignorant of the issue of global warming's impact on the continent's future.
+The True South flag, designed by Evan Townsend in 2018, symbolizes hope for Antarctica's future and features navy and white horizontal stripes representing long days and nights at the extreme latitude, with a white peak forming a compass arrow pointed south. It has been adopted by National Antarctic Programs, Antarctic nonprofits, and expedition teams, and flown at research stations across Antarctica. In contrast, the current flag used by Twemoji (and thus Discord) — [the design by Graham Bartram](https://en.wikipedia.org/wiki/Flag_of_Antarctica#Graham_Bartram's_proposal) — doesn't represent Antarctica well and is not future-proof, as the continent changes shape due to seasonal and global changes, and is ignorant of the issue of global warming's impact on the continent's future.
 
 ----
 
