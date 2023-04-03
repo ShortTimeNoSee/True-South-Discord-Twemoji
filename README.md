@@ -1,5 +1,9 @@
 # True-South-Discord-Twemoji
-Replaces the Antartica flag used in Discord (Twemoji) with the True South flag.
+Replaces the Antartica flag used in Discord (Twemoji) with the [True South](https://en.wikipedia.org/wiki/Flag_of_Antarctica#True_South_proposal) flag.
+
+The True South flag, designed by Evan Townsend in 2018, symbolizes hope for Antarctica's future and features navy and white horizontal stripes representing long days and nights at the extreme latitude, with a white peak forming a compass arrow pointed south. It has been adopted by National Antarctic Programs, Antarctic nonprofits, and expedition teams, and flown at research stations across Antarctica. In contrast, the current flag used by Twemoji (and thus Discord) — the design by [Graham Bartram](https://en.wikipedia.org/wiki/Flag_of_Antarctica#Graham_Bartram's_proposal) — doesn't represent Antarctica well and is not future-proof, as the continent changes shape due to seasonal and global changes, and is ignorant of the issue of global warming's impact on the continent's future.
+
+----
 
 ## Installation
 ### Web client
@@ -32,12 +36,16 @@ Replaces the Antartica flag used in Discord (Twemoji) with the True South flag.
 5. Copy and paste this link into the textbox below the "THEMES" header: `https://raw.githubusercontent.com/ShortTimeNoSee/True-South-Discord-Twemoji/main/flag_aq.css`.
 6. Do not use the "esc" key to exit settings unless you have clicked outside of the text box first.
 
+----
+
 ### BetterDiscord
 1. Download and install [BetterDiscord](https://betterdiscord.app/). Run Discord.
 2. Click the settings cog "⚙️" beside your username at the bottom left.
 3. Scroll down to "Custom CSS" in the "BETTERDISCORD" section of the settings sidebar.
 4. Copy and paste [this CSS](https://raw.githubusercontent.com/ShortTimeNoSee/True-South-Discord-Twemoji/main/flag_aq.css) into the editor.
 5. Click save "💾".
+
+----
 
 ### Vencord
 1. Download and install [Vencord](https://github.com/Vendicated/Vencord). Run Discord.
